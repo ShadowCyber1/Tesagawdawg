@@ -2,10 +2,10 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js", // Assuming index.js is your entry point file
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js" // Adjust this if your entry point file is named differently
+    "start": "node index.js" 
   },
   "keywords": [],
   "author": "",
